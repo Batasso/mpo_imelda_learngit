@@ -4,3 +4,6 @@ Je veux pouvoir générer automatiquement l'emploi du temps d'une classe en fonc
 En tant que directeur des études, je veux pouvoir exporter les emplois du temps format PDF ou excel
 Sprint 3: Amélioration et personnalisation 
 En tant que directeur des études, je veux pouvoir personnaliser l'affichage de l'emploi du temps(couleur, format) 
+En tant que directeur d'étude, je veux recevoir des notifications en cas de gestion des conflit d'emploi du temps(cours doublement planifié, enseignant indisponible)
+
+
